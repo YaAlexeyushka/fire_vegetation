@@ -1,0 +1,19 @@
+# Данные (сырые, промежуточные, тяжёлые) — хранятся локально, не в репозитории
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# IDE / ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
